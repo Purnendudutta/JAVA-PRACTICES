@@ -34,7 +34,7 @@ class Student {
 }
 
 // Main class to create objects and interact with them
-public class Main {
+public class Class {
     public static void main(String[] args) {
         // Array of grades for each student
         double[] grades1 = {85.5, 90.0, 78.0};
