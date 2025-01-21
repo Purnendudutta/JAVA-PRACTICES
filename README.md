@@ -56,7 +56,7 @@
     - Int to Char
     - Char to Int
 
-# Java Classes and Object Programs
+# Java Classes and Object Programs ✔️
 
     - Class and Object
     - Abstract Class
@@ -70,7 +70,6 @@
     - Overloading of Methods in Class
     - Overriding of Methods in Classes
     - Super Keyword in Class
-    - This Keyword in Class
     - Static keyword in Class
     - Access Modifier
 
