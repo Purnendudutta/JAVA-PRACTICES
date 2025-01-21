@@ -1,62 +1,32 @@
-// Define the abstract class Shape
-abstract class Shape {
-    String color;
+// Abstract class
+abstract class Animal {
+    // Abstract method (does not have a body)
+    public abstract void makeSound();
 
-    // Abstract method (no implementation)
-    abstract double calculateArea();
-
-    // Regular method with implementation
-    void display() {
-        System.out.println("Shape color: " + color);
+    // Regular method
+    public void sleep() {
+        System.out.println("Sleeping...");
     }
 }
 
-// Subclass Circle extends the abstract class Shape
-class Circle extends Shape {
-    double radius;
-
-    Circle(String color, double radius) {
-        this.color = color;
-        this.radius = radius;
-    }
-
-    // Implement the abstract method
-    @Override
-    double calculateArea() {
-        return Math.PI * radius * radius;
+// Subclass (inherited from Animal)
+class Dog extends Animal {
+    // Provide implementation for the abstract method
+    public void makeSound() {
+        System.out.println("Woof!");
     }
 }
 
-// Subclass Rectangle extends the abstract class Shape
-class Rectangle extends Shape {
-    double length;
-    double width;
-
-    Rectangle(String color, double length, double width) {
-        this.color = color;
-        this.length = length;
-        this.width = width;
-    }
-
-    // Implement the abstract method
-    @Override
-    double calculateArea() {
-        return length * width;
-    }
-}
-
-// Main class to create objects and interact with them
+// Main class
 public class Abstract {
     public static void main(String[] args) {
-        // Create objects of Circle and Rectangle
-        Shape circle = new Circle("Red", 5.0);
-        Shape rectangle = new Rectangle("Blue", 4.0, 6.0);
-
-        // Call methods on the objects
-        circle.display();
-        System.out.println("Circle area: " + circle.calculateArea());
-
-        rectangle.display();
-        System.out.println("Rectangle area: " + rectangle.calculateArea());
+        // Create an instance of the Dog class
+        Dog myDog = new Dog();
+        
+        // Call the abstract method implemented in the Dog class
+        myDog.makeSound();
+        
+        // Call the regular method from the Animal class
+        myDog.sleep();
     }
 }
