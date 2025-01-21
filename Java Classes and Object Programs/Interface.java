@@ -1,27 +1,16 @@
-// Define the interface
-interface Animal {
-    void makeSound();
-    void move();
-}
-
-// Implement the interface in a class
-class Dog implements Animal {
-    @Override
-    public void makeSound() {
-        System.out.println("Woof!");
-    }
-    
-    @Override
-    public void move() {
-        System.out.println("Running...");
-    }
-}
-
-// Main class
-public class Interface {
-    public static void main(String[] args) {
-        Dog myDog = new Dog();
-        myDog.makeSound();
-        myDog.move();
-    }
-}
+interface Printable{  
+    void print();  
+    }  
+    interface Showable extends Printable{  
+    void show();  
+    }  
+    class Interface  implements Showable{  
+        public void print(){System.out.println("Hello");}  
+        public void show(){System.out.println("Welcome");}  
+          
+        public static void main(String args[]){  
+            Interface obj = new Interface();  
+        obj.print();  
+        obj.show();  
+         }  
+        }  
