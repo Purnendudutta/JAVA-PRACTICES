@@ -73,24 +73,27 @@
     - Static keyword in Class
     - Access Modifier
 
-# Java Methods Programs
+# Java Methods Programs ✔️
 
     - Main() Method
     - Static and Non-Static Methods
-    - forEach() Method
+    - forEach() Method with a List
+    - forEach() Method with a Map
+    - forEach() Method with Streams
     - toString() Method
     - codePointAt() Method
     - compare() Method
     - equals() Method
     - hasNext() and next() Method
-    - Thread Lifecycle Methods
     - start() Method
     - run() Method
 
-# Java Searching Programs
+# Java Searching Programs ✔️
 
     - Linear Search
+    - Linear Search Strings
     - Binary Search
+    - Recursively Binary Search an Element in an Array
     - Recursively Linearly Search an Element in an Array
 
 # Java 1-D Array Programs
