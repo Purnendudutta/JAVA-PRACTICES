@@ -96,7 +96,7 @@
     - Recursively Binary Search an Element in an Array
     - Recursively Linearly Search an Element in an Array
 
-# Java 1-D Array Programs
+# Java 1-D Array Programs ✔️
 
     - Search an Element in an Array
     - Find the Largest Element in an Array
