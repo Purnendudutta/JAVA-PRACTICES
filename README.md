@@ -144,7 +144,7 @@
     - Insert a string into another string
     - Splitting into a number of sub-strings
 
-# Java List Programs
+# Java List Programs ✔️
 
     - Initializing a List
     - Find a Sublist in a List
