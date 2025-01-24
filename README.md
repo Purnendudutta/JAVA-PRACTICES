@@ -195,7 +195,7 @@
     - Find the Current Working Directory
     - Display All the Directories in a Directory
 
-# Java Exceptions and Errors Programs ✔️
+# Java Exceptions and Errors Programs
 
     - Show Runtime Exceptions
     - Show Types of Errors
@@ -222,16 +222,19 @@
     - Rotate Elements of a List
     - Iterate through Elements of HashMap
 
-# Java Multithreading Programs
+# Java Multithreading Programs ✔️
 
     - Check the Thread Status
     - Suspend a Thread
     - Join Threads
     - Show Daemon Thread
 
-# More Java Programs
+# More Java Programs ✔️
 
-    - Print Fibonacci Series in Different Ways
+    - Print Fibonacci Series Iterative Approach
+    - Print Fibonacci Series Recursive Approach
+    - Print Fibonacci Series Using Dynamic Programming
+    - Print Fibonacci Series Using Java Streams
     - Convert Linked List to an Array
     - Convert Vector to a List
     - Convert String to a List of Characters
