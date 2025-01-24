@@ -2,8 +2,6 @@
 // In both static and non-static methods,
 // static methods are directly accessed.
 
-import java.io.*;
-
 public class StaticNonstatic {
   
     static int num = 100;
