@@ -146,21 +146,24 @@
 
 # Java List Programs ✔️
 
-    - Initializing a List
-    - Find a Sublist in a List
-    - Get Minimum and Maximum From a List
-    - Split a list into Two Halves
-    - Remove a Sublist from a List
-    - Remove Duplicates from an Array List
-    - Remove Null from a List container
-    - Sort Array List in an Ascending Order
-    - Get First and Last Elements from an Array List
-    - Convert a List of String to Comma Separated String
-    - Add Element at First and Last Position of a Linked list
-    - Find Common Elements in Two ArrayList
-    - Remove Repeated Element From An ArrayList
+    - Initializing a List Using ArrayList
+    - nitializing a List Using Arrays.asList()
+    - nitializing a List Using Collections.singletonList()
+    - nitializing a List Using Stream.of()
+    - nitializing a List Using List.of()
+    - ind a Sublist in a List
+    - et Minimum and Maximum From a List
+    - plit a list into Two Halves
+    - emove a Sublist from a List
+    - emove Duplicates from an Array List
+    - emove Null from a List container
+    - et First and Last Elements from an Array List
+    - onvert a List of String to Comma Separated String
+    - dd Element at First and Last Position of a Linked list
+    - ind Common Elements in Two ArrayList
 
-# Java Date and Time Programs
+
+# Java Date and Time Programs ✔️
 
     - Format time in AM-PM format
     - Display Dates of Calendar Year in Different Format
@@ -168,7 +171,7 @@
     - Display time in different country’s format
     - Convert the local Time to GMT
 
-# Java File Programs
+# Java File Programs ✔️
 
     - Create a New File
     - Create a Temporary File
@@ -182,7 +185,7 @@
     - Read Content From One File and Writing it into Another File
     - Read and Printing All Files From a Zip File
 
-# Java Directory Programs
+# Java Directory Programs ✔️
 
     - Traverse in a Directory
     - Get the Size of a Directory
@@ -192,7 +195,7 @@
     - Find the Current Working Directory
     - Display All the Directories in a Directory
 
-# Java Exceptions and Errors Programs
+# Java Exceptions and Errors Programs ✔️
 
     - Show Runtime Exceptions
     - Show Types of Errors
