@@ -218,7 +218,6 @@
     - Print a Collection
     - Compare Elements in a Collection
     - Get the Size of the Collection
-    - Compare Elements in a Collection
     - Shuffle the Elements of a Collection
     - Reverse a Collection
     - Convert Collection into Array
