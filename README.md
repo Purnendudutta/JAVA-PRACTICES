@@ -195,7 +195,7 @@
     - Find the Current Working Directory
     - Display All the Directories in a Directory
 
-# Java Exceptions and Errors Programs
+# Java Exceptions and Errors Programs ✔️
 
     - Show Runtime Exceptions
     - Show Types of Errors
