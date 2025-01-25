@@ -207,7 +207,7 @@
     - Unreachable Code Error
     - Thread Interface and Memory Consistency Errors
 
-# Java Collections Programs
+# Java Collections Programs ✔️
 
     - Use Different Types of Collection
         - List
