@@ -210,6 +210,11 @@
 # Java Collections Programs
 
     - Use Different Types of Collection
+        - List
+        - Set
+        - Map
+        - Queue
+        - Deque
     - Print a Collection
     - Compare Elements in a Collection
     - Get the Size of the Collection
@@ -221,6 +226,7 @@
     - Replace Elements in a List
     - Rotate Elements of a List
     - Iterate through Elements of HashMap
+
 
 # Java Multithreading Programs ✔️
 
