@@ -1,4 +1,4 @@
-public class IfElse {
+public class RelationOperator {
     public static void main(String[] args) {
         int age = 18;
         if (age >= 18) {
